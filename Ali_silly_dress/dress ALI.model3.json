@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "dress ALI.moc3",
+		"Textures": [
+			"dress ALI.1024/texture_00.png"
+		],
+		"Physics": "dress ALI.physics3.json",
+		"DisplayInfo": "dress ALI.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
